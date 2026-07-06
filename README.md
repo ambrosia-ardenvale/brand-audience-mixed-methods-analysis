@@ -1,23 +1,23 @@
 # Brand Voice vs. Audience Reality: A Mixed-Methods Content Analysis
 
-A mixed-methods data project analyzing audience behavior across 37 data points to identify a gap between brand intent and audience perception, using a real-world case study of an international wellness brand's YouTube channel.
+A mixed-methods data project analyzing audience behavior across 37 data points to identify a gap between brand intent and audience perception, conducting a real-world case study of an international wellness brand's YouTube channel.
 
 ## Overview
 
-This project investigates which content and communication strategies most effectively foster audience loyalty for a digital wellness brand, and whether the brand's intended voice is actually landing with its audience the way it's designed to. A two-track content analysis was built from scratch: one coding scheme for brand-side content (video descriptions, community posts), and a separate coding scheme for audience-side response (viewer comments), allowing brand intent and audience experience to be measured independently and then compared.
+This project investigates which content and communication strategies most effectively foster audience loyalty for a digital wellness brand, and whether the brand's intended voice is directly metabolized by its audience via its intended design. A two-track content analysis was built from scratch: one coding scheme for brand-side content (video descriptions, community posts), and a separate coding scheme for audience-side response (viewer comments), allowing brand intent and audience experience to be measured independently and then compared.
 
 ## Methodology
 
-- **Qualitative track:** 13 brand content units (7 video descriptions, 6 community posts) coded across 5 categories — Community Language, Inner Authority References, Engagement Prompts, Values Alignment, and Exclusivity — each scored 0 (Absent) to 2 (Prominent).
-- **Quantitative track:** 24 viewer comments collected across 5 videos, coded across 6 dimensions — Sense of Belonging, Parasocial Intimacy, Inner Authority Mirroring, Emotional & Somatic Transformation, Loyalty & Sustained Engagement, and Overall Sentiment.
+- **Qualitative track:** 13 brand content units (7 video descriptions, 6 community posts) coded across 5 categories: Community Language, Inner Authority References, Engagement Prompts, Values Alignment, and Exclusivity. Scored 0 (Absent) to 2 (Prominent).
+- **Quantitative track:** 24 viewer comments collected across 5 videos, coded across 6 dimensions: Sense of Belonging, Parasocial Intimacy, Inner Authority Mirroring, Emotional & Somatic Transformation, Loyalty & Sustained Engagement, and Overall Sentiment.
 - Custom coding rubrics were designed from the ground up for both tracks (see `/appendix` in the full report for complete coding instruments and scoring definitions).
 
 ## Key Findings
 
 - **Values Alignment dominates brand voice** at 1.92 of 2.0, the strongest signal across all brand-side categories.
-- **Viewers bond with the brand's founder personally** rather than with a peer community — Parasocial Intimacy (1.25) outweighs Sense of Belonging (0.88), despite consistent communal language on the brand side.
-- **Video descriptions and community posts serve complementary, non-overlapping functions** — Inner Authority language concentrates in videos (1.71 vs. 0.83), while Community Language concentrates in posts (2.0 vs. 1.43).
-- **Brand rhetoric translates to audience experience at a consistent rate, regardless of content register** — the gap between brand and audience scores is nearly identical across two independent dimension pairs (0.42 and 0.43), suggesting the translation gap is structural rather than content-dependent.
+- **Viewers bond with the brand's founder personally** rather than with a peer community: Parasocial Intimacy (1.25) outweighs Sense of Belonging (0.88), despite consistent communal language on the brand side.
+- **Video descriptions and community posts serve complementary, non-overlapping functions** Inner Authority language concentrates in videos (1.71 vs. 0.83), while Community Language concentrates in posts (2.0 vs. 1.43).
+- **Brand rhetoric translates to audience experience at a consistent rate, regardless of content register** The gap between brand and audience scores is nearly identical across two independent dimension pairs (0.42 and 0.43), suggesting the translation gap is structural rather than content-dependent.
 
 ## Deliverables
 
