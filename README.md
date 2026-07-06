@@ -24,7 +24,9 @@ This project investigates which content and communication strategies most effect
 - 📄 [Full Research Report (PDF)](./BUS_249_Final_Research_Report.pdf) — complete methodology, findings, recommendations, limitations, and appendices with raw coded data
 - 📊 [Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/AudienceLoyaltyBrandPerceptionAMixed-MethodsAnalysis/Brandvs_Audience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) — live, interactive version of the four core charts referenced in the report
 - 📽️ [Presentation Deck](./BUS_249_Presentation_Deck.pdf) — slide summary of the full analysis
-- 📁 [Coding Data (Excel)](./BUS_249_Qual_Quant_Research.xlsx) — raw and coded data for both qualitative and quantitative tracks
+- 🗂️ [Coding Instruments (PDF)](./BUS_249_Coding_Instruments.pdf) — the full qualitative and quantitative coding schemas, with operational definitions, examples, and score descriptions
+- 📈 [Analysis Summary (PDF)](./BUS_249_Analysis_Summary.pdf) — category/dimension averages plus analyst commentary connecting qualitative and quantitative findings
+- 📁 [Full Coding Data (Excel)](./BUS_249_Qual_Quant_Research.xlsx) — raw and coded data underlying both research tracks, including formulas and named data tables
 
 ## Tools
 
