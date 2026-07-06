@@ -16,8 +16,8 @@ This project investigates which content and communication strategies most effect
 
 - **Values Alignment dominates brand voice** at 1.92 of 2.0, the strongest signal across all brand-side categories.
 - **Viewers bond with the brand's founder personally** rather than with a peer community: Parasocial Intimacy (1.25) outweighs Sense of Belonging (0.88), despite consistent communal language on the brand side.
-- **Video descriptions and community posts serve complementary, non-overlapping functions** Inner Authority language concentrates in videos (1.71 vs. 0.83), while Community Language concentrates in posts (2.0 vs. 1.43).
-- **Brand rhetoric translates to audience experience at a consistent rate, regardless of content register** The gap between brand and audience scores is nearly identical across two independent dimension pairs (0.42 and 0.43), suggesting the translation gap is structural rather than content-dependent.
+- **Video descriptions and community posts serve complementary, non-overlapping functions**: Inner Authority language concentrates in videos (1.71 vs. 0.83), while Community Language concentrates in posts (2.0 vs. 1.43).
+- **Brand rhetoric translates to audience experience at a consistent rate, regardless of content register**: The gap between brand and audience scores is nearly identical across two independent dimension pairs (0.42 and 0.43), suggesting the translation gap is structural rather than content-dependent.
 
 ## Deliverables
 
